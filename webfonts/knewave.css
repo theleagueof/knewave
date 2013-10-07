@@ -10,6 +10,7 @@
 @font-face {
   font-family: 'Knewave';
   font-weight: bold;
+  src: url('knewave-webfont.eot'),
   src: url('knewave-webfont.eot?#iefix') format('embedded-opentype'),
        url('knewave-webfont.woff') format('woff'),
        url('knewave-webfont.ttf')  format('truetype'),
