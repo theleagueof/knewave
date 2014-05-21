@@ -1,0 +1,18 @@
+/*
+  'Knewave Outline'
+  https://www.theleagueofmoveabletype.com/knewave
+
+  Copyright (c) 2010, Tyler Finck <hello@sursly.com>, with Reserved Font Name: "Knewave".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Knewave Outline';
+  font-weight: bold;
+  src: url('knewave-outline-webfont.eot');
+  src: url('knewave-outline-webfont.eot?#iefix') format('embedded-opentype'),
+       url('knewave-outline-webfont.woff') format('woff'),
+       url('knewave-outline-webfont.ttf')  format('truetype'),
+       url('knewave-outline-webfont.svg#KnewaveOutlineRegular') format('svg');
+}
